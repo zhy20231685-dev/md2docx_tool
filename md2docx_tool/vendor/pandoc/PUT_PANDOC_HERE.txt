@@ -1,0 +1,6 @@
+请把 pandoc 可执行文件放到这个目录：
+
+- Windows：pandoc.exe
+- macOS/Linux：pandoc
+
+你可以从官网下载安装包里提取（打包/运行时都不需要联网）。
